@@ -1,4 +1,5 @@
-# Heart-Attack-Risk-Objective of the Analysis
+# Heart-Attack-Risk
+Objective of the Analysis
 This analysis is intended to provide an overview of the risk of heart attack of various age groups as well as cholesterol and liproprotein levels. The study also provides a predictive model for determining the likelihood of heart attacks.
 
 
